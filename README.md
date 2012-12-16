@@ -14,6 +14,10 @@ Usage
 
     $ $GOPATH/bin/GoSimple --port=8080 --path=/your/htdocs/path
 
+Change the `path` flag to the path of your static documents.
+
+Change the `port` flag to 80 if you'd like to run off the standard http port.
+
 
 
 
