@@ -6,6 +6,8 @@
 // This package implements a super simple http server for testing
 // of static documents.
 //
+// Install
+//		$ go get github.com/baliw/GoSimple
 // Usage
 //		$ $GOPATH/bin/GoSimple --port=8080 --path=/your/htdocs/path
 //

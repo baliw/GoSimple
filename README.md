@@ -7,7 +7,7 @@ GoSimple is a super simple http server for test deployments of static files.
 Installing
 ==========
 
-    $ go get github.com/baliw/gosimple
+    $ go get github.com/baliw/GoSimple
 
 Usage
 =====
