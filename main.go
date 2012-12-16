@@ -1,4 +1,11 @@
+// Copyright 2012 Daniel Walton - All rights reserved.
+// Author: Daniel Walton <dan@RubyDeveloper.com>
+//         https://github.com/baliw
+//         @dan_gogh
 
+// This package implements a super simple http server for testing
+// of static documents.
+//
 package main
 
 import (
