@@ -27,6 +27,7 @@ import (
 func main() {
 	var port *int = flag.Int("port", 8080, "Port to listen on. Default=8080")
 	var path *string = flag.String("path", "./", "Path to serve files from.  Default=./")
+	flag.Parse()
 
 	fileserver := http.FileServer(http.Dir(*path))
 
